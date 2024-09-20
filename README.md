@@ -1,5 +1,5 @@
 # PoliticaPrivacidadeApp
-Neste repositório será encontrado um documento contendo a política de privacidade do App.
+Neste repositório será encontrado um documento contendo a política de privacidade do App e sobre a solicitação de exclusão de dados do cliente.
 
 # Política de Privacidade
 
@@ -41,6 +41,15 @@ Você tem o direito de:
 
 ## Cookies e Tecnologias Semelhantes
 Nosso site pode usar cookies e tecnologias semelhantes para melhorar sua experiência de navegação. Você pode configurar seu navegador para recusar cookies, mas isso pode afetar a funcionalidade do site.
+
+## Exclusão de Dados
+Para solicitar a exclusão de seus dados pessoais, o cliente deve enviar um requerimento via e-mail ou WhatsApp (encontrados neste documento ou dentro do próprio aplicativo), contendo as seguintes informações:
+
+- O e-mail cadastrado no aplicativo
+- O motivo da solicitação de exclusão dos dados
+- O consentimento do cliente para a exclusão
+
+Nosso time avaliará a solicitação e retornará com uma resposta dentro de um prazo razoável.
 
 ## Alterações a Esta Política
 Podemos atualizar esta Política de Privacidade periodicamente. Recomendamos que você reveja esta página regularmente para se manter informado sobre como protegemos suas informações.
